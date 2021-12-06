@@ -1,6 +1,6 @@
 def increased_checker():
     f = open('Day1Input.txt', 'r')
-    file_lines =f.readlines()
+    file_lines = f.readlines()
 
     day1_list = []
 
