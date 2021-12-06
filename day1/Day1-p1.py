@@ -1,5 +1,3 @@
-from time import sleep
-
 def increased_checker():
     f = open('Day1Input.txt', 'r')
     file_lines =f.readlines()
